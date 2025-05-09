@@ -1,3 +1,5 @@
+mv ~/Downloads/cover.png ~/Desktop/HealPath/
+
 # HealPath UI/UX Case Study - Therapeutic Travel
 
 ![Therapeutic Travel Cover](cover.jpg)
